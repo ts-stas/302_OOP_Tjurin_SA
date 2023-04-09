@@ -1,0 +1,19 @@
+{
+    "name": "t/task04",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/compareStrings.php",
+            "src/Test.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "ts-stas",
+            "email": "tzztaz@gmail.com"
+        }
+    ],
+    "require": {}
+}

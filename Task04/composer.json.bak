@@ -1,0 +1,19 @@
+{
+    "name": "f/task04",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/compareStrings.php",
+            "src/Test.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "AngelMaks",
+            "email": "gelya-maksimova@mail.ru"
+        }
+    ],
+    "require": {}
+}
